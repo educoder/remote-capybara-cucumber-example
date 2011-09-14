@@ -1,5 +1,5 @@
-source :rubygems
+source 'http://rubygems.org'
 
-gem 'cucumber', '>= 0.10.0'
-gem 'capybara', '>= 0.4.0'
-gem 'rspec', '>= 2.4.0'
+gem 'cucumber', '~> 1'
+gem 'capybara', '~> 1'
+gem 'rspec', '~> 2'
